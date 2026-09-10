@@ -1,9 +1,0 @@
-{
-  "name": "tanmay-portfolio",
-  "private": true,
-  "type": "module",
-  "scripts": {
-    "dev": "node serve.mjs",
-    "start": "node serve.mjs"
-  }
-}
